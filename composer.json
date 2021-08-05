@@ -1,0 +1,6 @@
+{
+    "name": "nikitades/intelephense-phpunit-test",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
